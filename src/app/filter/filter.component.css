@@ -1,0 +1,11 @@
+.Filter{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+.Filter span{
+    padding: 0px 10px;
+}
+.Filter label{
+    padding: 0px 10px;
+}

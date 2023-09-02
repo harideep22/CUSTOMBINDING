@@ -1,0 +1,11 @@
+.site-title{
+    background-color: black;
+}
+.site-title h2{
+    display: flex;
+    color: red;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    justify-content: center;
+}
+
